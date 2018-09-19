@@ -1,4 +1,4 @@
-# Lecture 0 Introduction
+# Lecture 1 Introduction
 
 *The core of AI is digitalize the real world*
 
@@ -28,11 +28,18 @@ In order to pass the total Turing test (people can't tell the difference from 		
 
 
 - **natural language processing**: to enable it to communicate successfully in English
+
 - **knowledge representation**: to store what it knows or hears
+
 - **automated reasoning**: to use the stored information to answer questions and to draw new conclusions
+
 - **machine learning** : to adapt to new circumstances and to detect and extrapolate patterns
+
 - **computer vision** : to perceive objects
-- **robotics** : to manipulate objects and move about
+
+- **robotics** : to manipulate objects and move 
+
+  ​
 
 
 
@@ -53,11 +60,12 @@ If program's input-output behavior can match corresponding  the human's behavior
 ##### Thinking rationally :
 
 - **syllogisms** : 三段论
-	 **two main obstacles** ：1. informal condition  2. difference between solving a problem “in principle” and solving it in practice					
+   **two main obstacles** ：1. informal condition  2. difference between solving a problem “in principle” and solving it in practice	
+
+   ​				
 
 
-
-**Acting rationally:**
+##### **Acting rationally:**
 
 -  **rational agent** : A rational agent is one that acts so as to achieve the best outcome or, when there is uncertainty, the best expected outcome
 
@@ -68,9 +76,9 @@ If program's input-output behavior can match corresponding  the human's behavior
 #### 1.3 three levels of human brains' function
 
 - **decision making** -------- search （in limited choices）
-
 - **inference** ------- Logic reasoning
-
 - **learning** ------- machine learning 
 
+
+conclusion: reach rational agents
 
